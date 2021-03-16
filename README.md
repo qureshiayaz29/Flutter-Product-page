@@ -1,3 +1,3 @@
 # splash_demo_app
 
-Youtube tutorial coming soon!
+Youtube tutorial here: https://youtu.be/mXNjjAEfV3Y
